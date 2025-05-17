@@ -45,3 +45,17 @@ This app enables users to:
 
 ## 📁 Project Structure
 
+pharmacie-garde/
+├── public/ # Static assets
+├── src/
+│ ├── components/ # Reusable UI components
+│ ├── pages/ # Page-level components
+│ ├── hooks/ # Custom hooks
+│ ├── utils/ # Utility functions
+│ ├── App.tsx # Main application wrapper
+│ ├── main.tsx # App entry point
+│ └── ... # Additional modules
+├── package.json # Project metadata & scripts
+├── tailwind.config.js # Tailwind configuration
+├── postcss.config.js # PostCSS configuration
+└── vite.config.ts # Vite configuration
