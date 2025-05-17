@@ -114,7 +114,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Abderrahmane Mabchour** - *Initial work* - [Your GitHub](https://github.com/mabchoor)
+- **Abderrahmane Mabchour** - *Initial work* - [mabchoor](https://github.com/mabchoor)
 
 ## 🙏 Acknowledgments
 
@@ -123,8 +123,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email your-email@example.com or open an issue in the repository.
+For support, email m.abderrahmane.dev@gmail.com or open an issue in the repository.
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Mabderrahmane Mabchour](https://github.com/mabchoor)
